@@ -1,0 +1,15 @@
+Enter Movie name Spiderman
+Enter how many tweets to search: 300
+How people are reacting on  Spiderman by analyzing 300 tweets.
+
+General Report: 
+Weakly Positive
+
+Detailed Report: 
+8.67% people thought it was positive
+17.33% people thought it was weakly positive
+4.00% people thought it was strongly positive
+2.00% people thought it was negative
+6.67% people thought it was weakly negative
+0.33% people thought it was strongly negative
+61.00% people thought it was neutral
